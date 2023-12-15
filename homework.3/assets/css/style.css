@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header-up {
+    background-color: saddlebrown
+}
+
+.header-up h1 {
+    font-size: 70px;
+    margin-left: 370px;
+    margin-top: 185px;
+    margin-bottom: 165px;
+    display: inline-block;
+}
+
+.header-center {
+    background-color: burlywood;
+    display: flex;
+}
+
+.header-center ul {
+    list-style: none;
+    margin-left: 550px;
+}
+
+.header-center ul li {
+    display: inline-block;
+    font-size: 20px;
+    margin: 20px;
+    margin-right: 30px;
+}
+
+.header-center ul li a {
+
+    text-decoration: none;
+    color: green;
+}
+
+.header-down {
+    background-color: burlywood;
+    height: 600px;
+}
+
+.header-down h2 {
+    font-size: 35px;
+}
+
+.header-down p {
+    color: rgb(106, 22, 22);
+    font-size: 20px;
+}
+
+.header-down p1 {
+    font-size: 20px;
+}

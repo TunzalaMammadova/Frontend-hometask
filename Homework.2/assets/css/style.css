@@ -1,0 +1,31 @@
+h1 {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content p {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content li{
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+list-style: none;
+color: black;
+}
+
+.content li a{
+    color: black;
+}
+
+.content img {
+    width: 300px;
+}

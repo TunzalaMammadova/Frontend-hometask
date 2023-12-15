@@ -1,0 +1,47 @@
+.account {
+    background-color: white;
+    margin-top: 500px;
+    margin-left: 700px;
+
+
+}
+
+.account h1 {
+    font-size: 50px;
+    font-weight: 250px;
+    margin-left: 30px;
+    font-style: inherit;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.account input {
+    width: 350px;
+    padding: 12px 2px;
+    margin: 1px;
+    border-radius: 4px;
+    display: inline-block;
+    border: 1px solid grey;
+    box-sizing: border-box;
+}
+
+.submit input {
+    width: 100px;
+    padding: 10px 2px;
+    margin: 8px;
+    margin-left: 120px;
+    border-radius: 3px;
+    display: inline-block;
+    color: white;
+    box-sizing: border-box;
+    background-color: rgb(24, 142, 24);
+}
+
+
+
+.account label {
+
+    font-size: 20px;
+    margin-left: 2px;
+}
